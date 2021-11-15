@@ -49,6 +49,9 @@ The analysis of the election show that:
 This is how this script can be used for any election:
 
 - By adding new data in a csv format and adding it as a "file_to_load" where it shows in the section bellow:
+![This is an image](https://github.com/KandiJayana/Election_Analysis/blob/12f323c08bfbd80862b355a8f1428ebf834c306b/csv%20new%20data.png)
+
+- By adding a new county where it shows the county from the new csv input information as it shows below:
 ![This is an image](
 
 
